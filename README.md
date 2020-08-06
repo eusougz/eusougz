@@ -16,6 +16,3 @@
 Clean House
 - Web 🟢 [Dá uma olhada](https://youtu.be/0_K-MqDsElg)
 - Mobile 🟡 loading...
-
-Noque Noque
-- Mobile 🟡 loading...
