@@ -8,7 +8,7 @@
 ### Eu sou Guilherme Giacomin
 - Mais conhecido como GZ.
 - Graduando de Engenharia de Computação no CEFET-MG (7º período).
-- Desenvolvedor Web (estagiário) na [Bwtech](https://www.bwtech.com/).
+- Analista front-end na [Pris](https://pris.com.br/).
 - Apaixonado por front-end ❤.
 - Entusiasta de Angular.
 
