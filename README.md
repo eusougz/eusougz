@@ -7,7 +7,7 @@
 
 ### Eu sou Guilherme Giacomin
 - Mais conhecido como GZ;
-- Graduando de Engenharia de Computação no CEFET-MG (10º período);
+- Engenheiro de Computação no CEFET-MG;
 - Desenvolvedor Front-end na [SYDLE](https://www.sydle.com/);
 - Apaixonado por Front-end ❤;
 - Entusiasta de Angular.
